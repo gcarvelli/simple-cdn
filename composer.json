@@ -1,0 +1,14 @@
+{
+    "name": "gcarvelli/simple-cdn",
+    "description": "Small CDN that dynamically resizes pictures",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Giovanni Carvelli",
+            "email": "giovannircarvelli@gmail.com"
+        }
+    ],
+    "require": {
+        "mos/cimage": "^0.7.19"
+    }
+}
