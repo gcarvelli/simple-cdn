@@ -8,6 +8,11 @@
             "email": "giovannircarvelli@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "SimpleCDN\\": "src/"
+        }
+    },
     "require": {
         "mos/cimage": "^0.7.19"
     }
